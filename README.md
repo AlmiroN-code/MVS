@@ -1,2 +1,2 @@
 # MVS
-Mini Video Sharing CMS
+Mini CMS
